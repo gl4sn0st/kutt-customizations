@@ -26,7 +26,7 @@ This also customizes the footer to include custom links.
 
 ### Crimson Dark
 
-A dark version of Crimson theme by [glasn0st][https://github.com/gl4sn0st]
+A dark version of Crimson theme by [glasn0st](https://github.com/gl4sn0st)
 
 | Homepage | Admin page | Login/signup |
 | -------- | ---------- | ------------ |
